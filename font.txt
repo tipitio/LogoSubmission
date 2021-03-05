@@ -8,4 +8,4 @@ https://fonts.google.com/specimen/Cinzel?preview.text=Clarion&preview.text_type=
 
 clarion_idea_mod1.svg : 
 Hind 
-https://fonts.google.com/specimen/Hind?preview.text=Clarion%20OS&preview.text_type=custom
+https://fonts.google.com/specimen/Hind?preview.text_type=custom

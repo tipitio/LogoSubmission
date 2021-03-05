@@ -1,1 +1,11 @@
-The text font used for the logo is Cinzel and is available at https://fonts.google.com/specimen/Cinzel?preview.text=Clarion&preview.text_type=custom
+Fonts
+==========
+
+clarion_idea.svg : 
+Cinzel 
+https://fonts.google.com/specimen/Cinzel?preview.text=Clarion&preview.text_type=custom
+
+
+clarion_idea_mod1.svg : 
+Hind 
+https://fonts.google.com/specimen/Hind?preview.text=Clarion%20OS&preview.text_type=custom
